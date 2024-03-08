@@ -1,5 +1,5 @@
 # shoppingcart
-Programming exercise to implement server-side functionality related to working with a shopping cart. This exercise includes restocking functionality. All data is read from a Strapi database and accessed via collections. 
+Programming exercise to implement server-side functionality related to working with a shopping cart. This exercise includes restocking functionality. All data is read from a Strapi API connection via a database. 
 
 # setup
 Install NodeJS
