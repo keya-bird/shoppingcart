@@ -6,4 +6,4 @@ Install NodeJS
 Install Dependencies
 
 # strapi documentation
-For mor information on installing Strapi: https://docs.strapi.io/dev-docs/installation/cli 
+For more information on installing Strapi: https://docs.strapi.io/dev-docs/installation/cli 
